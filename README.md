@@ -73,4 +73,15 @@ The example of a code for ol and ul
     </ul>
 </body>
 </html>
+
+#Links
+Create hyperlinks using the <a> tag:
+<a href="https://www.example.com">Visit Example.com</a>
+href attribute specifies the URL of the page the link goes to.
+
+#images
+Add images with the <img> tag:
+<img src="image.jpg" alt="Description of image">
+src attribute specifies the path to the image file.
+alt attribute provides alternative text for accessibility.
  
