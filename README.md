@@ -49,5 +49,28 @@ HTML LISTS
 
 <li>wait for 5minutes</li> 
 
-
+The example of a code for ol and ul 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists</title>
+</head>
+<body>
+    <h1>Lists</h1>
+    <h2>Order List</h2>
+    <ol>
+        <li>First item</li>
+        <li>second item</li>
+        <li>Third item</li>
+    </ol>
+    <h2>Unordered list</h2>
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+    </ul>
+</body>
+</html>
  
