@@ -142,6 +142,17 @@ The section element is used to mark sections of content. For example, in a long 
 6. Aside
 Lastly, the aside element is for content that is off to the side, like sidebar information or additional details that accompany an article but are not part of its main flow. Advertisements can also be marked as an aside. Although the position on the page does not matter, the semantic meaning of these elements is crucial. The visual layout often conveys meaning, and these HTML elements help transfer that meaning from the design to the content.
 
+Building Html table:
+
+ HTML table. The table element wraps around the whole table, around all our content and markup for that table, marking the beginning and end of the table itself. The TR element stands for table row and wraps around a set of elements, defining them as belonging to the same row. The TH element stands for table header and defines a header for a column. The TD element stands for table data and marks up the cells of data. 
+
+
+<table>wraps the whole table</table>
+<tr>wraps around the set of elements,defining them as belonging to the same row</tr>
+<th>defines a header for a column</th>
+<td>Marks the actual bits of data</td>
+
+
 
 
 
